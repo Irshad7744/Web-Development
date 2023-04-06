@@ -2,8 +2,18 @@ body{
     background-color:hsla(114, 23%, 84%, 0.404);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h1{color: rgb(240, 0, 188);}
-hr{color:rgb(1, 20, 7) ;}
-h2{color: rgb(240, 0, 188);}
-p{color: rgb(86, 58, 88);}
-ul{color:rgb(86, 58, 88);}
+h1{
+    color: rgb(240, 0, 188);
+}
+hr{
+    color:rgb(1, 20, 7) ;
+}
+h2{
+    color: rgb(240, 0, 188);
+}
+p{
+    color: rgb(86, 58, 88);
+}
+ul{
+    color:rgb(192, 102, 199);
+}
